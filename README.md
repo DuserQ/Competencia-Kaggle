@@ -1,6 +1,6 @@
 # Competencia-Kaggle
 
-[![logosimbolo-horizontal-png.png](https://i.postimg.cc/Ss55BC3C/logosimbolo-horizontal-png.png)](https://postimg.cc/qhsjnhkv)
+[![universidad-de-antioquia-logo-5-E9-B72-BD6-F-seeklogo-com.png](https://i.postimg.cc/8PtZrhPG/universidad-de-antioquia-logo-5-E9-B72-BD6-F-seeklogo-com.png)](https://postimg.cc/tYn3Knxv)
 
 ## Integrantes:
 
