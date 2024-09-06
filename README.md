@@ -4,8 +4,8 @@
 
 
 
-Ana Sofía Toro
-C.C: 1001915273
+Ana Sofía Toro <br/> 
+C.C: 1001915273 <br/> 
 Ingeniería industrial 
 
 
