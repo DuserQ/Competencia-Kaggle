@@ -10,16 +10,12 @@ Ingeniería industrial
 
 
 
-Marfa kleber sierra
-
-C.C: 103110151
-
+Marfa kleber sierra <br/> 
+C.C: 103110151 <br/> 
 Ingeniria de Sistemas
 
 
 
-Santiago Hernandez Cadavod
-
-C.C: 1001824845
-
+Santiago Hernandez Cadavod <br/> 
+C.C: 1001824845 <br/> 
 Ingenieria de Sistemas
