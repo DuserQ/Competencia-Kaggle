@@ -1,13 +1,11 @@
 # Competencia-Kaggle
 
-##Integrantes:
+## Integrantes:
 
 
 
 Ana Sofía Toro
-
 C.C: 1001915273
-
 Ingeniería industrial 
 
 
