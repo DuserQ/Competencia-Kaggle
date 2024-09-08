@@ -14,7 +14,7 @@ Ingeniería industrial
 
 
 Marfa kleber sierra <br/> 
-C.C: 103110151 <br/> 
+C.C: 1103110151 <br/> 
 Ingeniria de Sistemas
 
 
