@@ -22,3 +22,7 @@ Ingeniria de Sistemas
 Santiago Hernandez Cadavod <br/> 
 C.C: 1001824845 <br/> 
 Ingenieria de Sistemas
+
+
+A continuacion, se encuentra el video de explicacion sbido a youtube sobre el prepocesamiento de los datos de la competecia de kaggle:
+https://youtu.be/aJEdjuQkCjc
