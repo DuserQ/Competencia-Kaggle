@@ -23,6 +23,8 @@ Santiago Hernandez Cadavod <br/>
 C.C: 1001824845 <br/> 
 Ingenieria de Sistemas
 
-![unnamed](https://github.com/user-attachments/assets/e64c4415-7146-4ace-944d-7dd551f5c358)
 A continuacion, se encuentra el video de explicacion sbido a youtube sobre el prepocesamiento de los datos de la competecia de kaggle:
-https://youtu.be/aJEdjuQkCjc
+https://youtu.be/aJEdjuQkCjc <br/>
+
+Por ultimo, se muestra el video de como se hizo la solucion a la competencia de kaggle:
+
