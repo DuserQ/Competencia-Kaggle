@@ -27,4 +27,5 @@ A continuacion, se encuentra el video de explicacion sbido a youtube sobre el pr
 https://youtu.be/aJEdjuQkCjc <br/>
 
 Por ultimo, se muestra el video de como se hizo la solucion a la competencia de kaggle:
+https://www.youtube.com/watch?v=eUevP3Gbwbc
 
